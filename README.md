@@ -10,7 +10,7 @@ Code information:
 [![Code Coverage Scrutinizer](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/?branch=master)
 [![Code Climate](https://codeclimate.com/github/koinephp/AssetDownloader.png)](https://codeclimate.com/github/koinephp/AssetDownloader)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/?branch=master)
-[![StyleCI](https://styleci.io/repos/{style_ci_id}/shield)](https://styleci.io/repos/{style_ci_id})
+[![StyleCI](https://styleci.io/repos/55406012/shield)](https://styleci.io/repos/55406012)
 
 Package information:
 
