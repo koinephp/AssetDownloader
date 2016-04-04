@@ -25,7 +25,17 @@ Package information:
 
 
 ```php
-// some code example?
+<?php
+
+use Koine\AssetDownloader\AssetDownloader;
+use Psr\Http\Message\UriInterface;
+
+$assetDownloader = new AssetDownloader();
+$assetDownloader
+    ->from('https://example.com')
+    ->to(realpath('./public'));
+
+$downloader->download(new Uri('http://localhost/images/image-on-production-website.jpg'));
 ```
 
 ## Installing
