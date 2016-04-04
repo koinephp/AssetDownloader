@@ -1,0 +1,23 @@
+{
+    "name": "koine/asset-downloader",
+    "description": "Downloads assets from a website",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcelo Jacobus",
+            "email": "marcelo.jacobus@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4"
+    },
+    "require-dev": {
+        "satooshi/php-coveralls": "~1.0.0",
+        "phpunit/phpunit": "~4.8.21"
+    },
+    "autoload": {
+        "psr-4": {
+            "Koine\\AssetDownloader\\": "src/"
+        }
+    }
+}
