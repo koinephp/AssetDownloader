@@ -18,7 +18,7 @@ Package information:
 [![Total Downloads](https://poser.pugx.org/koine/asset-downloader/downloads.svg)](https://packagist.org/packages/koine/asset-downloader)
 [![Latest Unstable Version](https://poser.pugx.org/koine/asset-downloader/v/unstable.svg)](https://packagist.org/packages/koine/asset-downloader)
 [![License](https://poser.pugx.org/koine/asset-downloader/license.svg)](https://packagist.org/packages/koine/asset-downloader)
-[![Dependency Status](https://gemnasium.com/koine/asset-downloader.png)](https://gemnasium.com/koine/asset-downloader)
+[![Dependency Status](https://gemnasium.com/koinephp/AssetDownloader.png)](https://gemnasium.com/koinephp/AssetDownloader)
 
 
 ## Usage
