@@ -6,10 +6,10 @@ Downloads assets from a website
 Code information:
 
 [![Build Status](https://travis-ci.org/koinephp/AssetDownloader.png?branch=master)](https://travis-ci.org/koinephp/AssetDownloader)
-[![Coverage Status](https://coveralls.io/repos/koinephp/AssetDownloader/badge.png?branch=master)](https://coveralls.io/r/koinephp/AssetDownloader?branch=master)
-[![Code Coverage Scrutinizer](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/?branch=master)
-[![Code Climate](https://codeclimate.com/github/koinephp/AssetDownloader.png)](https://codeclimate.com/github/koinephp/AssetDownloader)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/koinephp/AssetDownloader/badge.svg?branch=master)](https://coveralls.io/github/koinephp/AssetDownloader?branch=master)
+[![Code Climate](https://codeclimate.com/github/koinephp/AssetDownloader/badges/gpa.svg)](https://codeclimate.com/github/koinephp/AssetDownloader)
+[![Issue Count](https://codeclimate.com/github/koinephp/AssetDownloader/badges/issue_count.svg)](https://codeclimate.com/github/koinephp/AssetDownloader)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/badges/quality-score.png)](https://scrutinizer-ci.com/g/koinephp/AssetDownloader/)
 [![StyleCI](https://styleci.io/repos/55406012/shield)](https://styleci.io/repos/55406012)
 
 Package information:
