@@ -48,7 +48,7 @@ composer require koine/asset-downloader
 
 [Here](https://github.com/koinephp/AssetDownloader/issues) is the issue tracker.
 
-## Lincense
+## License
 
 [MIT](MIT-LICENSE)
 
